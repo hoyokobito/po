@@ -79,7 +79,7 @@ footer p{
 }
 
 .container{
-    width: 900px;
+    width: 950px;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
